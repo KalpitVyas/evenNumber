@@ -18,6 +18,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>evenNumber</finalName>
+		<finalName>even-number</finalName>
 	</build>
 </project>
