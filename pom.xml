@@ -17,4 +17,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	<build>
+		<finalName>evenNumber</finalName>
+	</build>
 </project>
